@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\july11ex01\july11ex01\bin\Debug\july11ex01.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\july11ex01\july11ex01\bin\Debug\july11ex01.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\july11ex01\july11ex01\bin\Debug\july11ex01.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\july11ex01\july11ex01\obj\Debug\july11ex01.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\july11ex01\july11ex01\obj\Debug\july11ex01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\july11ex01\july11ex01\obj\Debug\july11ex01.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\july11ex01\july11ex01\obj\Debug\july11ex01.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\july11ex01\july11ex01\obj\Debug\july11ex01.pdb
