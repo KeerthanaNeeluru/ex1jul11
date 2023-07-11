@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -30,7 +32,14 @@ namespace july11ex01
             Console.WriteLine(id + "\t" + name + "\t\t" + gender + "\t\t" +
                 salary +"\t"+doj);
             Console.ReadKey();
-
+            if (salary > 90000)
+            {
+                Console.WriteLine("you have to pay 30% tax ");
+            }
+            else
+            {
+                Console.WriteLine("You will have to pay 15% tax");
+            }
         }
     }
 }
