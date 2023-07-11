@@ -26,7 +26,8 @@ namespace july11ex01
             Console.WriteLine("Enter employee date of joining");
             doj = DateTime.Parse(Console.ReadLine());
             Console.WriteLine("ID\tEmployeename\tEmployee Gender\tEmployee Salary\tDOJ");
-            Console.WriteLine(id + "\t" + name + "\t" + gender + "\t" +
+            Console.WriteLine("=================================================================================================");
+            Console.WriteLine(id + "\t" + name + "\t\t" + gender + "\t\t" +
                 salary +"\t"+doj);
             Console.ReadKey();
 
